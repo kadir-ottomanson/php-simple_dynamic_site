@@ -1,0 +1,33 @@
+body{
+	margin: auto;
+	background-color: lightblue;
+
+}
+#cikis{
+	text-align: right;
+}
+#cikis input{
+	background-color:lightgray; 
+	border-radius: 50%;
+}
+#ust_div{
+	margin: auto;
+	text-align: center;
+	width: 70%;
+	background-color: lightyellow;
+	margin-top: 5%;
+
+
+}
+#alt_konu{
+	width: 70%;
+	background-color: lightgreen;
+	margin: auto;
+	margin-top: 5%;
+	text-align: center;
+}
+#alt_konu table{
+
+		width: 100%;
+	}
+
